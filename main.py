@@ -6,6 +6,11 @@ Why Mount Fuji: it is a named, faraway mountain — one specific dream,
 not a generic beach or plane. A snow-capped peak reads instantly as a
 postcard at a glance: climb it, watch the sunrise above the clouds,
 stand somewhere that feels worlds away from everyday life.
+
+Verified by hand before the second commit: the written entry.txt is
+exactly 4 bytes long, sha256
+1ddbf4ea8dae91e57c69a4fe16a6fbf69f9b10b9e50993d4fbb19dadf8c20983,
+byte-identical across three fresh runs and one clean-environment run.
 """
 
 import os
